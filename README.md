@@ -93,7 +93,6 @@ Screenshots included in `/images` folder for:
 - 4688 event in Splunk  
 - Splunk Web UI running  
 - Security auditing commands  
-- Troubleshooting steps (optional)
 
 ---
 
